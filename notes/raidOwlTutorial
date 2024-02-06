@@ -1,0 +1,7 @@
+arch: host on local box and use cloudflare and nginx proxy and nginx html server
+nginx holds the ssl cert
+also nginx proxy man is running in docker, nginx web server is running on machine
+
+right now nginx web server is running. i looked at /etc/nginx/nginx.conf and it says its listening at port 8080 and 8000, but i cant access those ports from my tower or via links on the server
+
+
